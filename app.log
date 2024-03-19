@@ -1,0 +1,350 @@
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\Transiciones_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: C:/Users/Bohr/Desktop/Transiciones. Informe guardado en: C:/Users/Bohr/Desktop/Transiciones\Transiciones_scan_report_antivirus.txt
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: file_bytes is not valid unicode: invalid utf-8 sequence of 1 bytes from index 14091
+LibClamAV Warning: Can't open file .\D_2_80113_3_1_11_19846_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/D_2_80113_3_1_11_19846. Informe guardado en: Z:/D_2_80113_3_1_11_19846\D_2_80113_3_1_11_19846_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17390_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17390. Informe guardado en: Z:/ED_35_85112_1661_166_17390\ED_35_85112_1661_166_17390_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17390_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17390. Informe guardado en: Z:/ED_35_85112_1661_166_17390\ED_35_85112_1661_166_17390_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17390_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17390. Informe guardado en: Z:/ED_35_85112_1661_166_17390\ED_35_85112_1661_166_17390_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17390_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17390. Informe guardado en: Z:/ED_35_85112_1661_166_17390\ED_35_85112_1661_166_17390_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17390_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17390. Informe guardado en: Z:/ED_35_85112_1661_166_17390\ED_35_85112_1661_166_17390_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17389_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17389. Informe guardado en: Z:/ED_35_85112_1661_166_17389\ED_35_85112_1661_166_17389_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17389_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17389. Informe guardado en: Z:/ED_35_85112_1661_166_17389\ED_35_85112_1661_166_17389_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17389_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17389. Informe guardado en: Z:/ED_35_85112_1661_166_17389\ED_35_85112_1661_166_17389_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17389_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17389. Informe guardado en: Z:/ED_35_85112_1661_166_17389\ED_35_85112_1661_166_17389_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17389_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17389. Informe guardado en: Z:/ED_35_85112_1661_166_17389\ED_35_85112_1661_166_17389_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17387_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17387. Informe guardado en: Z:/ED_35_85112_1661_166_17387\ED_35_85112_1661_166_17387_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17387_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17387. Informe guardado en: Z:/ED_35_85112_1661_166_17387\ED_35_85112_1661_166_17387_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17387_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17387. Informe guardado en: Z:/ED_35_85112_1661_166_17387\ED_35_85112_1661_166_17387_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17387_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17387. Informe guardado en: Z:/ED_35_85112_1661_166_17387\ED_35_85112_1661_166_17387_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17387_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17387. Informe guardado en: Z:/ED_35_85112_1661_166_17387\ED_35_85112_1661_166_17387_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17386_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17386. Informe guardado en: Z:/ED_35_85112_1661_166_17386\ED_35_85112_1661_166_17386_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17386_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17386. Informe guardado en: Z:/ED_35_85112_1661_166_17386\ED_35_85112_1661_166_17386_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17386_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17386. Informe guardado en: Z:/ED_35_85112_1661_166_17386\ED_35_85112_1661_166_17386_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17386_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17386. Informe guardado en: Z:/ED_35_85112_1661_166_17386\ED_35_85112_1661_166_17386_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17386_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17386. Informe guardado en: Z:/ED_35_85112_1661_166_17386\ED_35_85112_1661_166_17386_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17385_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17385. Informe guardado en: Z:/ED_35_85112_1661_166_17385\ED_35_85112_1661_166_17385_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17385_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17385. Informe guardado en: Z:/ED_35_85112_1661_166_17385\ED_35_85112_1661_166_17385_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17385_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17385. Informe guardado en: Z:/ED_35_85112_1661_166_17385\ED_35_85112_1661_166_17385_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17385_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17385. Informe guardado en: Z:/ED_35_85112_1661_166_17385\ED_35_85112_1661_166_17385_scan_report_antivirus.txt
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1661_166_17385_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1661_166_17385. Informe guardado en: Z:/ED_35_85112_1661_166_17385\ED_35_85112_1661_166_17385_scan_report_antivirus.txt
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1658_166_17384_scan_report_antivirus.txt: 32
+
+INFO:root:Escaneo completado para: Z:/ED_35_85112_1658_166_17384. Informe guardado en: Z:/ED_35_85112_1658_166_17384\ED_35_85112_1658_166_17384_scan_report_antivirus.txt
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\prueba_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\prueba_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\prueba_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\prueba_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\proyecto_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\fotos_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\prueba_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\prueba_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\prueba_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\prueba_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\prueba_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17381_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17380_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17380_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17378_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17377_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17377_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17377_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17377_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1655_165_17373_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1655_165_17373_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1655_165_17373_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1655_165_17373_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1655_165_17373_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1655_165_17373_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1655_165_17373_scan_report_antivirus.txt: 32
+
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 41 9
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 62 25
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 99 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 16460
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17376_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17376_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17376_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17376_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17376_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17376_scan_report_antivirus.txt: 32
+
+INFO:root:Salida: None
+INFO:root:Error: LibClamAV Warning: Can't open file .\ED_35_85112_1657_166_17376_scan_report_antivirus.txt: 32
+
